@@ -39,9 +39,15 @@ Step 1: Order materials (full list at the bottom), then await items' arrival.
 
 Step 2: Image OpenMediaVault to SD cards on your laptop/PC.
 
-Step 3: Insert SD cards to boards, attach Ethernet cables, then power the boards with MicroUSB cable.
+Step 3a: Customize cluster stand parts (make it look stylish!) 
 
-Step 4: Experiment & Hack with OpenMediaVault! You can try testing out some plugins. (I'll try to link nodes together this way: 3 nodes' network-shared storage mounted to 1 serving node, which will act as the "proxy" or "client" node, while also operating as a storage node like the other boards.)
+Step 3b: Mount SBCs to cluster stand platforms.
+
+Step 3c: Stack platforms and attach pillars via screws until they are secure.
+
+Step 4: Insert SD cards to boards, attach Ethernet cables, then power the boards with MicroUSB cable.
+
+Step 5: Experiment & Hack with OpenMediaVault! You can try testing out some plugins. (I'll try to link nodes together this way: 3 nodes' network-shared storage mounted to 1 serving node, which will act as the "proxy" or "client" node, while also operating as a storage node like the other boards.)
 
 ## Budget
 
@@ -54,10 +60,10 @@ Step 4: Experiment & Hack with OpenMediaVault! You can try testing out some plug
 | Pack of Ethernet Cables                 | https://amzn.to/3v9B8Lc               | $9.99   |
 | Ethernet Network Switch                 | (already own)                         | $0      |
 | Cluster Stand                           | https://amzn.to/3HYMERp               | $19.99  |
-|-------------------------------------------------------------------------------------------|
+|-----------------------------------------|---------------------------------------|---------|
 | Item Subtotal                           |                                       | $241.97 |
 | Item Total + NYC Sales Tax (8.875%)     | $241.97 * 108.875%                    | $263.45 |
-|-------------------------------------------------------------------------------------------|
+|-----------------------------------------|---------------------------------------|---------|
 | Renegade SBCs Shipping                  | USPS First Class                      | $5.01   |
 |-------------------------------------------------------------------------------------------|
 | Grand Total                             |                                       | $268.46 |
