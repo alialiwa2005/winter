@@ -45,13 +45,19 @@ Step 4: Experiment & Hack with OpenMediaVault! You can try testing out some plug
 
 ## Budget
 
-| Product                            | Supplier/Link                         | Cost    |
-| ---------------------------------- | ------------------------------------- | ------- |
-| 4 Libre Computer Renegade SBCs     | https://bit.ly/3VhXMvx                | $200    |
-| Renegade SBCs Shipping             | USPS First Class                      | $5.01   |
-| 1 USB Power Supply                 | (Already Own)                         | $0      |
-| 3-pack USB Power Supplies          | https://amzn.to/3jfzB3s               | $11.99  |
-| 4 MicroSD Cards                    | (Already Own)                         | $0      |
-| Pack of Ethernet Cables            | https://amzn.to/3v9B8Lc               | $9.99   |
-| Ethernet Network Switch            | https://amzn.to/3VgqPQ5               | $18.99  |
-| Total  (Plus NY 8.875% Sales Tax)  |                                       | $267.82 |
+| Product                                 | Supplier/Link                         | Cost    |
+| --------------------------------------- | ------------------------------------- | ------- |
+| 4 Libre Computer Renegade SBCs          | https://bit.ly/3VhXMvx                | $200    |
+| 1 USB Power Supply                      | (Already Own)                         | $0      |
+| 3-pack USB Power Supplies               | https://amzn.to/3jfzB3s               | $11.99  |
+| 4 MicroSD Cards                         | (Already Own)                         | $0      |
+| Pack of Ethernet Cables                 | https://amzn.to/3v9B8Lc               | $9.99   |
+| Ethernet Network Switch                 | (already own)                         | $0      |
+| Cluster Stand                           | https://amzn.to/3HYMERp               | $19.99  |
+|-------------------------------------------------------------------------------------------|
+| Item Subtotal                           |                                       | $241.97 |
+| Item Total + NYC Sales Tax (8.875%)     | $241.97 * 108.875%                    | $263.45 |
+|-------------------------------------------------------------------------------------------|
+| Renegade SBCs Shipping                  | USPS First Class                      | $5.01   |
+|-------------------------------------------------------------------------------------------|
+| Grand Total                             |                                       | $268.46 |
