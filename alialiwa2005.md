@@ -58,11 +58,11 @@ Step 5: Experiment & Hack with OpenMediaVault! You can try testing out some plug
 | 3-pack USB Power Supplies               | https://amzn.to/3jfzB3s               | $11.99  |
 | 4 MicroSD Cards                         | (Already Own)                         | $0      |
 | Pack of Ethernet Cables                 | https://amzn.to/3v9B8Lc               | $9.99   |
-| Ethernet Network Switch                 | (already own)                         | $0      |
+| Ethernet Network Switch                 | (Already Own)                         | $0      |
 | Cluster Stand                           | https://amzn.to/3HYMERp               | $19.99  |
 |                                         |                                       |         |
 | Item Subtotal                           |                                       | $241.97 |
-| Item Total + NYC Sales Tax (8.875%)     | $241.97 * 108.875%                    | $263.45 |
+| Item Total + NYC Sales Tax (8.875%)     | ($241.97)(108.875%)                   | $263.45 |
 |                                         |                                       |         |
 | Renegade SBCs Shipping                  | USPS First Class                      | $5.01   |
 |                                         |                                       |         |
