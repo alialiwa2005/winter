@@ -15,23 +15,23 @@ Through building this project, I hope to learn more about redundancy, specifical
 
 I hope to gain experience from this build in order to build a more versatile cluster of Raspberry Pis (which are currently hard to find during a critical shortage at the time of writing) soon.
 
-Initially, I planned to build a full-on DIY AWS with Raspberry Pis, but unfortunately, there is a major shortage of Raspberry Pis, and I was unable to get my hands on them on time for Winter of Making 2023... so I had to resort to an alternative SBC. Unlike the well-documented and widely-supportive Raspberry Pi, which is the "original" and "the gold standard" arm SBC for most home tinkerers, the Librecomputer SBC isn't fully supportive of the software (and some hardware) requirements needed for a DIY AWS project powered by Kubernetes or isn't as well-documented as the Raspberry Pi in that use-case.
+Initially, I planned to build another project powered by the UK-made Raspberry Pi, but unfortunately I was unable to get my hands on them on time for Winter of Making 2023 due a major shortage of Raspberry Pis at the time of writing... so I had to resort to an alternative SBC. 
 
-However, the Librecomputer should support some basic NAS functions and should be applicable for a backup build in this case. OpenMediaVault has an officially supported image released by Librecomputer, so it should be able to work.
+The Librecomputer SBC isn't as widely-supportive nor as well-documented as the Raspberry Pi.
 
+However, the Librecomputer should be able to execute basic NAS functions and should be applicable for this build. OpenMediaVault has an officially supported image released by Librecomputer, so that's what we'll use. 
+
+OpenMediaVault is an open-source Linux-based Network Attached Storage operating system, so it's a good choice for our project's software.
 
 ## Plan
 
-For this project, you'll need some identical SBCs. I'll use 4 Librecomputer Renegade Boards. They have a gigabit ethernet port, unlike the other Librecomputer SBCs, which have 100mbit/s ports. This is useful for faster serving and uploading of files, especially larger ones, over LAN.
+For this project, you'll need some identical SBCs. You can use Librecomputer's LePotato for a tighter budget, or use Renegade boards for their hardware performance perks. I'll use Librecomputer's Renegade boards. They have a gigabit ethernet port, unlike the other Librecomputer SBCs, which are limited to 100mbit/s via ethernet port. A higher bandwidth capacity is useful for faster serving and uploading of files, especially larger ones, over LAN. What's also interesting is their form-factor, which is identical to that of a Pi 3 Model B... this is true for the LePotato as well.
 
 Aside from these, you also need basic accessories, like power supplies (Minimum 5v 2a via MicroUSB), storage (MicroSD), and ethernet cables.
 
 You'll also need a laptop or PC for imaging the microSD cards for booting OpenMediaVault on the Librecomputer SBCs.
 
-Some other optional but recommended items are:
-
-- A network switch, so that they all connect to the ethernet switch, which ultimately links to your router via a 
-single network cable.
+Another optional but recommended item is: A network switch, so that all the boards connect to the ethernet switch, which ultimately uses a single port of your router. You'll need a 5+ port router, including a port for the network switch to be linked to a router.
 
 ---
 
@@ -57,13 +57,14 @@ Step 5: Experiment & Hack with OpenMediaVault! You can try testing out some plug
 | USB Power Supply                        | https://amzn.to/3PNXNq0               | $29.99  |
 | 4 MicroSD Cards                         | (Already Own)                         | $0      |
 | Cluster Stand                           | https://amzn.to/3HYMERp               | $19.99  |
+| Ethernet Network Switch                 | https://amzn.to/3hTmGUv               | $19.79  |
 
 | Subtotal, Sales Tax, Shipping           |                                       |         |
 | --------------------------------------- | ------------------------------------- | ------- |
-| Item Subtotal                           |                                       | $249.98 |
-| Item Total + NYC Sales Tax (8.875%)     | ($241.97)(108.875%)                   | $272.17 |
+| Item Subtotal                           |                                       | $269.77 |
+| Item Total + NYC Sales Tax (8.875%)     | ($241.97)(108.875%)                   | $293.72 |
 | Renegade SBCs Shipping                  | USPS First Class                      | $5.01   |
 
 | Grand Total |
 | ----------- |
-| $277.18     |
+| $298.73     |
