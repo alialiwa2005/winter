@@ -54,16 +54,13 @@ Step 5: Experiment & Hack with OpenMediaVault! You can try testing out some plug
 | Product                                 | Supplier/Link                         | Cost    |
 | --------------------------------------- | ------------------------------------- | ------- |
 | 4 Libre Computer Renegade SBCs          | https://bit.ly/3VhXMvx                | $200    |
-| 1 USB Power Supply                      | (Already Own)                         | $0      |
-| 3-pack USB Power Supplies               | https://amzn.to/3jfzB3s               | $11.99  |
+| USB Power Supply                        | https://amzn.to/3PNXNq0               | $29.99  |
 | 4 MicroSD Cards                         | (Already Own)                         | $0      |
-| Pack of Ethernet Cables                 | https://amzn.to/3v9B8Lc               | $9.99   |
-| Ethernet Network Switch                 | https://amzn.to/3hTmGUv               | $19.79  |
 | Cluster Stand                           | https://amzn.to/3HYMERp               | $19.99  |
 | --------------------------------------- | ------------------------------------- | ------- |
-| Item Subtotal                           |                                       | $261.76 |
-| Item Total + NYC Sales Tax (8.875%)     | ($241.97)(108.875%)                   | $284.99 |
+| Item Subtotal                           |                                       | $249.98 |
+| Item Total + NYC Sales Tax (8.875%)     | ($241.97)(108.875%)                   | $272.17 |
 | --------------------------------------- | ------------------------------------- | ------- |
 | Renegade SBCs Shipping                  | USPS First Class                      | $5.01   |
 | --------------------------------------- | ------------------------------------- | ------- |
-| Grand Total                             |                                       | $290    |
+| Grand Total                             |                                       | $277.18 |
