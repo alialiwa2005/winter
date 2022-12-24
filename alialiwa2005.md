@@ -22,7 +22,7 @@ However, the Librecomputer should support some basic NAS functions, and should b
 
 ## Plan
 
-For this project, you'll need some identical SBCs. I'll use 4 Librecomputer Renegade Boards. They have a gigabit ethernet port, unlike the other Librecomputer SBCs, which have 100mbit/s ports.
+For this project, you'll need some identical SBCs. I'll use 4 Librecomputer Renegade Boards. They have a gigabit ethernet port, unlike the other Librecomputer SBCs, which have 100mbit/s ports. This is useful for faster serving and uploading of files on lan.
 
 Aside from these, you also need basic accessories, like power supplies (Minimum 5v 2a via MicroUSB), storage (microUSBs), and ethernet cables.
 
