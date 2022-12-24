@@ -63,4 +63,4 @@ Step 5: Experiment & Hack with OpenMediaVault! You can try testing out some plug
 | Item Subtotal                           |                                       | $249.98 |
 | Item Total + NYC Sales Tax (8.875%)     | ($241.97)(108.875%)                   | $272.17 |
 | Renegade SBCs Shipping                  | USPS First Class                      | $5.01   |
-| Grand Total                             |                                       | $277.18 |
+#| Grand Total                             |                                       | $277.18 |
