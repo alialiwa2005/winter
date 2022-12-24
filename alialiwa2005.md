@@ -59,8 +59,11 @@ Step 5: Experiment & Hack with OpenMediaVault! You can try testing out some plug
 | Cluster Stand                           | https://amzn.to/3HYMERp               | $19.99  |
 
 | Subtotal, Sales Tax, Shipping           |                                       |         |
+| --------------------------------------- | ------------------------------------- | ------- |
 | Item Subtotal                           |                                       | $249.98 |
 | Item Total + NYC Sales Tax (8.875%)     | ($241.97)(108.875%)                   | $272.17 |
 | Renegade SBCs Shipping                  | USPS First Class                      | $5.01   |
 
-| Grand Total                             |                                       | $277.18 |
+| Grand Total |
+| ----------- |
+| $277.18     |
